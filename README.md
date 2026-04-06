@@ -32,4 +32,4 @@ To analyze retail sales data and extract meaningful insights.
 Retail Sales Dataset
 
 ## 👩‍💻 Author
-Your Name
+Rutuja Myakalwar
