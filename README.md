@@ -33,3 +33,4 @@ Retail Sales Dataset
 
 ## 👩‍💻 Author
 Rutuja Myakalwar
+![Sales Trend](image1.png)
